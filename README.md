@@ -1,0 +1,2 @@
+# tea-project-creation
+# https://tea.xyz/what-is-this-file --- version: 1.0.0 codeOwners:   - '0xB6E91aBF52D670Cb8064bAdDd992c35cBF46bBF5' quorum: 1
